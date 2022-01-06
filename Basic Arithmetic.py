@@ -8,3 +8,4 @@ mul = A*B
 print(add)
 print(sub)
 print(mul)
+print("Pull added")

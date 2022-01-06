@@ -14,3 +14,5 @@ elif (ap < 75 and m =="N"):
     print("Cannot write exam")
 else:
     print("Invalid input")
+
+print("Pull added")

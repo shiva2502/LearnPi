@@ -14,3 +14,5 @@ elif n =="%":
     print(a%b)
 else:
     print("Invalid Input")
+
+print("Pull added")

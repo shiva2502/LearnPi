@@ -23,3 +23,5 @@ elif nlen==4:
     print(n0+n1+n2+n3)
 else:
     print("Invalid Range")
+
+print("Pull added")
